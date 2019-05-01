@@ -1,0 +1,2 @@
+node kongen.js
+pause
